@@ -1,0 +1,2 @@
+# mydbops-sensu-proxysql-plugin
+
