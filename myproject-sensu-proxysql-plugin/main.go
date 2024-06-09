@@ -1,7 +1,3 @@
-/*
-Copyright © 2022 Akash N <akash@mydbops.com>
-
-*/
 package main
 
 import (
